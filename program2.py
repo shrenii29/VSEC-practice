@@ -1,5 +1,5 @@
-str= input("enter string: ")
-if str==str[::-1]:
+branch1= input("enter string: ")
+if branch1==branch1[::-1]:
     print("palindrome")
 else:
     print("not palindrome")
