@@ -1,5 +1,6 @@
 str= input("enter string: ")
-if str==str[::-1]:
+if str=="".join(str):
     print("palindrome")
 else:
     print("not palindrome")
+#different implementation
