@@ -1,5 +1,5 @@
-str= input("enter string: ")
-if str=="".join(str):
+Branch2= input("enter string: ")
+if Branch2=="".join(Branch2):
     print("palindrome")
 else:
     print("not palindrome")
